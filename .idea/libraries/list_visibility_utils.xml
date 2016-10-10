@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="list-visibility-utils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/list-visibility-utils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

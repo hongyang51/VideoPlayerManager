@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="video-player-manager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/video-player-manager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
