@@ -1,0 +1,85 @@
+//此多仓接口列表为公众号【多多APP】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+{
+    "urls": [	
+		{
+            "url": "https://yydsys.top/duo/config.bin",
+            "name": "🚀多多线路"
+        },
+        {
+            "url": "https://yydsys.cc.cd/config.bin",
+            "name": "🚀多多备用"
+        }, 		
+        {
+            "url": "https://www.252035.xyz/p/jsm.json",
+            "name": "🚀PG线路"
+        }, 				
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "🚀饭太硬线路"
+        },          	
+        {
+            "url": "https://www.252035.xyz/z/FongMi.json",
+            "name": "🚀真心线路"
+        }, 
+       {
+            "url": "http://ok213.top/tv",
+            "name": "🚀OK线路"
+        },		
+        {
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+            "name": "🚀东篱线路"
+        },	   
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🚀王二小线路"
+        },	
+        {
+            "url": "https://code.onedev.io/vox/~raw/master/demo.json",
+            "name": "🚀vox线路"
+        }, 		
+        {
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "🚀老虎线路"
+        }, 	 		
+        {
+            "url": "https://17264.kstore.space/哈基米.png",
+            "name": "🚀哈基米线路"
+        },				 		
+        {
+            "url": "http://肥猫.com",
+            "name": "🚀肥猫线路"
+        }, 
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "🚀摸鱼线路"
+        },		
+        {
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀南风线路"
+        }, 		 
+        {
+            "url": "http://hb.小虎斑.site:25252/仅供测试",
+            "name": "🚀虎斑线路"
+        }, 
+        {
+            "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json",
+            "name": "🚀小米线路"
+        }, 		 	
+        {
+            "url":"http://mytv6688.xyz/aowu/config",
+            "name": "🚀嗷呜线路"
+        },	
+        {
+            "url": "https://android.lushunming.qzz.io/json/index.json",
+            "name": "🚀L佬线路"
+        }, 					
+        {
+            "url":"http://154.36.173.40/tgyg/bbm.json",
+            "name": "🚀年年线路"
+        },
+        {
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🚀巧记线路"
+        }		
+    ]
+}
